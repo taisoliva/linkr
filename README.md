@@ -1,32 +1,32 @@
 # LinkrFront
 
-Design of a social media application ! With the right to register, login, comment, like, post, search for users, filter by hashtags and more !
+Design de um aplicativo de mídia social! Com direito a cadastro, login, comentar, curtir, postar, buscar usuários, filtrar por hashtags e muito mais!
 
 <img src="./src/styles/gif.gif" />
 
-Try it out now [here](https://linkr-iota.vercel.app) <br/>
-Check out the backend too [here](https://github.com/jao45gg/linkrAPI)
+Experimente agora [aqui](https://linkr-iota.vercel.app) <br/>
+Confira o back-end também [aqui](https://github.com/taisoliva/linkrAPI)
 
-## About
+## Sobre
 
-This is the Front-end of Linkr full-stack web application ! It's responsive, and does have data persistence, fell free to use and abuse it !
+Este é o front-end do aplicativo web full-stack Linkr! É responsivo e tem persistência de dados, fique à vontade para usar e abusar dele!
 
-Below are the implemented features:
+Abaixo estão os recursos implementados:
 
 - Sign Up
 - Login
 - LogOut
-- Search for user by name
-- Filter posts by hashtag
+- Pesquisar por user by name
+- Filtar posts por hashtag
 - Follow/Unfollow user
-- Delete your post
-- Edit your post
-- Much more !
+- Delete seu post
+- Editar seu post
+- Muito mais !
   
-By using this app any user can share a link on the internet and comment about it !
+Ao usar este aplicativo qualquer usuário pode compartilhar um link na internet e comentar sobre ele!
 
-## Technologies
-The following tools and frameworks were used in the construction of the project, you can find the full list on the package.json:<br>
+## Tecnologias
+As seguintes ferramentas e frameworks foram utilizados na construção do projeto, você encontra a lista completa no package.json:<br>
 <p>
   <img style='margin: 5px;' src='https://img.shields.io/badge/styled-components%20-%2320232a.svg?&style=for-the-badge&color=b8679e&logo=styled-components&logoColor=%3a3a3a'>
   <img style='margin: 5px;' src='https://img.shields.io/badge/axios%20-%2320232a.svg?&style=for-the-badge&color=informational'>
@@ -44,23 +44,23 @@ The following tools and frameworks were used in the construction of the project,
   
 </p>
 
-## How to run
+## Como rodar
 
-1. Clone this repository
-2. Install dependencies
+1. Clone este repositorio 
+2. Instale as dependências
 ```bash
 npm i
 ```
-3. Create a .env file on the root of the project with the following variable on it
+3. Crie um arquivo .env na raiz do projeto com a seguinte variável nele
 ```bash
 REACT_APP_API_URL=https://yourBackEndLink:PORT
 ```
-4. Run the front-end with
+4. Rode o front-end com
 ```bash
 npm start
 ```
-5. You can optionally build the project running
+5. Opcionalmente, você pode construir o projeto em execução
 ```bash
 npm run build
 ```
-6. Finally access http://localhost:3000 on your favorite browser (unless it is Internet Explorer. In this case, review your life decisions)
+6. Por fim acesse http://localhost:3000 no seu navegador preferido (a menos que seja o Internet Explorer. Neste caso, reveja suas decisões de vida)
