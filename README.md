@@ -25,7 +25,7 @@ Abaixo estão os recursos implementados:
   
 Ao usar este aplicativo qualquer usuário pode compartilhar um link na internet e comentar sobre ele!
 
-## Technologies
+## Tecnologias
 As seguintes ferramentas e frameworks foram utilizados na construção do projeto, você encontra a lista completa no package.json:<br>
 <p>
   <img style='margin: 5px;' src='https://img.shields.io/badge/styled-components%20-%2320232a.svg?&style=for-the-badge&color=b8679e&logo=styled-components&logoColor=%3a3a3a'>
