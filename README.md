@@ -4,8 +4,8 @@ Design de um aplicativo de mídia social! Com direito a cadastro, login, comenta
 
 <img src="./src/styles/gif.gif" />
 
-Experimente agora [here](https://linkr-iota.vercel.app) <br/>
-Confira o back-end também [here](https://github.com/taisoliva/linkrAPI)
+Experimente agora [aqui](https://linkr-iota.vercel.app) <br/>
+Confira o back-end também [aqui](https://github.com/taisoliva/linkrAPI)
 
 ## Sobre
 
